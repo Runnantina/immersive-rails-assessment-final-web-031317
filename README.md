@@ -27,3 +27,10 @@ The app you built on Monday is now functioning great. Stephen just has a few ext
 ### Hints / Tips
 
 + Remember we want to be RESTful. What URL should we use to display our edit form? What action should be responsible for updating the request?
+
+Appearance:
+  + change edit route to edit and update
+  
+1. edit appearance, change a rating
+2. validate ratings (between 1..5)
+3.
